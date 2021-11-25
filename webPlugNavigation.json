@@ -16,14 +16,12 @@
           "name": [
             "电影",
             "美剧",
-            "韩剧",
-            "泰剧"
+            "韩剧"
           ],
           "cate": [
             "1",
             "2",
-            "3",
-            "5"
+            "3"
           ],
           "page": "1"
         },
@@ -161,7 +159,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media.clearfix",
+            "mainCss": "ul.myui-vodlist__media.clearfix#searchList",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -250,7 +248,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media.clearfix",
+            "mainCss": "ul.myui-vodlist__media.clearfix#searchList",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
