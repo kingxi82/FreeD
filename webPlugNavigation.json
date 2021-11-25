@@ -10,7 +10,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.zxzj.fun/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.zxzj.fun/list/navCate-navPage.html",
+        "nav_url": "https://www.zxzj.fun/vodshow/navCate--hits------navPage---.html",
         "web_name": "在线之家",
         "navHtml": {
           "name": [
@@ -74,7 +74,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist__media.clearfix",
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -161,7 +161,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -240,7 +240,7 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -250,7 +250,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.hl-one-list",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
