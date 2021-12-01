@@ -102,13 +102,15 @@
             "热播电影",
             "热播电视",
             "热播美剧",
-            "日韩剧"
+            "日韩剧",
+            "综艺"
           ],
           "cate": [
             "zuijinrebodianying",
             "zuijinrebodianshiju",
             "rebomeiju",
-            "reborihanju"
+            "reborihanju",
+            "remenzongyi"
           ],
           "page": "1"
         },
