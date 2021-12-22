@@ -375,41 +375,33 @@
       }
     },
     {
-      "name": "爱迪(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "柚子蓝光4K",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://aidi.tv",
+      "webUrl": "http://www.youziapp.cn/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://aidi.tv/vsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://aidi.tv/show/navCate--------navPage---.html",
-        "web_name": "爱迪",
+        "search_url": "http://www.youziapp.cn/index.php/vod/search.html?wd={kw}&submit=",
+        "nav_url": "http://www.youziapp.cn/index.php/vod/show/id/navCate/page/navPage.html",
+        "web_name": "柚子影视",
         "navHtml": {
           "name": [
-            "电影",
-            "连续剧",
-            "综艺"
-          ],
+            "蓝光电影",
+            "蓝光电视剧",
+            "4K专区"
+         ],
           "cate": [
-            "dianying",
-            "lianxuju",
-            "zongyi"
+            "6",
+            "7",
+            "10"
           ],
           "page": "1"
         },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "",
-          "year": "",
-          "area": ""
-        },
         "html": {
           "episodes": {
-            "hasUrlPrefix": true,
+            "hasUrlPrefix": false,
             "isListItemAttr": true,
             "listCss": "li",
             "isMultiList": false,
@@ -422,7 +414,7 @@
           },
           "nav": {
             "descAttr": "",
-            "descCss": "span.pic_text.text_right",
+            "descCss": "span.pic_text.text_right.text_dy",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -430,13 +422,13 @@
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
-            "isNameAttr": false,
+            "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.vodlist.vodlist_wi",
+            "mainCss": "ul.vodlist.vodlist_wi.author*qq3626/95/000.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 1,
+            "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
@@ -444,7 +436,7 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.pic_text.text_right",
+            "descCss": "span.pic_text.text_right.text_dy",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
