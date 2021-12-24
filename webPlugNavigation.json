@@ -375,15 +375,6 @@
       }
     },
     {
-      "name": "长资源(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.qianoo.cn/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "柚子(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
