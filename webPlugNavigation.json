@@ -419,9 +419,9 @@
         },
         "html": {
           "episodes": {
-            "hasUrlPrefix": false,
+            "hasUrlPrefix": true,
             "isListItemAttr": true,
-            "listCss": "li",
+            "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
