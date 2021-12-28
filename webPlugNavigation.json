@@ -378,7 +378,7 @@
       "webUrl": "http://www.pipipao.com/",
       "webOpen": false,
       "click": true,
-      "autostart": true,
+      "play": true,
       "webPlus": {
         "search_url": "http://www.pipipao.com/vodsearch.html?wd={kw}",
         "nav_url": "http://www.pipipao.com/vodshow/id/navCate/page/navPage.html",
