@@ -378,7 +378,6 @@
       "webUrl": "https://www.ysgc.cc/",
       "webOpen": false,
       "click": true,
-      "play": true,
       "webPlus": {
         "search_url": "https://www.ysgc.cc/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.ysgc.cc/vodshow/navCate--------navPage---.html",
