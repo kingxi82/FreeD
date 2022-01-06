@@ -12,6 +12,7 @@
         "search_url": "https://www.zxzj.fun/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.zxzj.fun/vodshow/navCate--------navPage---.html",
         "web_name": "在线之家",
+        "search": true,
         "navHtml": {
           "name": [
             "电影",
@@ -279,6 +280,7 @@
         "search_url": "https://www.31kan.com/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.31kan.com/vodshow/navCate--hits------navPage---.html",
         "web_name": "31看电影",
+        "search": true,
         "navHtml": {
           "name": [
             "动作",
