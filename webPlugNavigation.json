@@ -360,7 +360,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media.clearfix",
+            "mainCss": "ul#searchList",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
