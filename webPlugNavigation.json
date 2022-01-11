@@ -360,12 +360,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList.myui-vodlist__media.clearfix",
+            "mainCss": "div.myui-panel_bd.col-pd.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "ul>li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -423,13 +423,13 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "div.tab-pane.fade.in.clearfix",
+            "listCss": "div.stui-pannel_bd.col-pd.clearfix",
             "isMultiList": true,
             "listCssMulti": "ul > li",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-content.myui-panel_bd",
+            "mainCss": "div.stui-pannel.stui-pannel-bg.clearfix",
             "mainIndex": 0
           },
           "nav": {
