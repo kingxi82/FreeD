@@ -367,7 +367,7 @@
           },
           "nav": {
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.hl-lc-1.remarks",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -389,7 +389,7 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.hl-lc-1.remarks",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
