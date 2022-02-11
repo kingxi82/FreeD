@@ -314,7 +314,7 @@
         "search_url": "https://www.31kan.vip/vodsearch/-------------.html?wd={kw}submit=",
         "nav_url": "https://www.31kan.vip/vodshow/navCate--------navPage---.html",
         "web_name": "31云播",
-        "search": true,
+        "search": false,
         "navHtml": {
           "name": [
             "动作",
