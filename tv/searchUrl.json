@@ -2,9 +2,17 @@
   "data": [
     {
       "id": 1,
+      "name": "无尽WJ",
+      "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xmlsea/",
+      "cate":"❌,1&&❌,2&&❌,3&&❌,4&&Action,6&&Comedy,7&&Romance,8&&Sci,9&&Horror,10&&Feature,11&&War,12&&China TV,13&&Hong Kong TV,14&&Taiwan TV,15&&USA TV,16&&❌,20&&Documentary,21&&Korea TV,22&&Japan TV,23&&Others TV,24&&China Variety,25&&JPN+KOR Variety,26&&Taiwan Variety,27&&US Variety,28&&China Animation,29&&Japan Animation,30&&US Animation,31&&Cliffhang,32&&Animation,33&&Criminal,34&&Fancy,35&&Movies,36&&Thailand TV,37",
+      "click":true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "百度BD",
       "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
-      "cate": "Action,21&&Comedy,22&&Romance,23&&Sci,24&&Horror,25&&Criminal,26&&War,27&&Animation Movie,28&&Dramatic,29&&Documentary,30&&❌,31&&China,32&&Hong Kong,33&&Japan,34&&USA,35&&❌,36&&China Variety,37&&JPN+KOR Variety,38&&Taiwan Variety,39&&US Variety,40&&Cartoon,41&&China Cartoon,42&&Japan Cartoon,43&&US Cartoon,44&&Others Cartoon,45&&❌,46&&WWE,49&&赛车,51&&UFC,52&&网球,53&&篮球,54&&足球,55&&Others Drama,57&&Taiwan,58&&Korea,59&&❌,60&&❌,61&&❌,62&&脚车,63&&棒球,64&&摩托车,65&&橄榄球,66&&MMA综合格斗,67&&❌,68&&MV,69&&高尔夫,71&&台球,72&&❌,73&&❌,74&&❌,75&&❌,76&&拳击,77&&❌,80&&❌,81",
+      "cate": "Action,21&&Feature,22&&Romance,23&&Sci,24&&Horror,25&&Criminal,26&&War,27&&Animation Movie,28&&Dramatic,29&&Documentary,30&&❌,31&&China,32&&Hong Kong,33&&Japan,34&&USA,35&&❌,36&&China Variety,37&&JPN+KOR Variety,38&&Taiwan Variety,39&&US Variety,40&&Cartoon,41&&China Cartoon,42&&Japan Cartoon,43&&US Cartoon,44&&Others Cartoon,45&&❌,46&&WWE,49&&赛车,51&&UFC,52&&网球,53&&篮球,54&&足球,55&&Others Drama,57&&Taiwan,58&&Korea,59&&❌,60&&❌,61&&❌,62&&脚车,63&&棒球,64&&摩托车,65&&橄榄球,66&&MMA综合格斗,67&&❌,68&&MV,69&&高尔夫,71&&台球,72&&❌,73&&❌,74&&❌,75&&❌,76&&拳击,77&&❌,80&&❌,81",
       "click": true,
       "wePlus": {}
     },
@@ -13,14 +21,6 @@
       "name": "天空TK",
       "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml/",
       "cate": "❌,3&&❌,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&台湾剧,15&&欧美剧,16&&动漫电影,20&&综合电影,21&&日本剧,24&&海外剧,25&&韩国剧,26&&❌,27&&国产动漫,28&&日本动漫,29&&欧美动漫,30&&动漫,31&&纪录片,32&&大陆综艺,33&&韩国综艺,34&&❌,35&&台湾综艺,36&&欧美综艺,37&&❌,38&&说电影,39",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "无尽WJ",
-      "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xmlsea/",
-      "cate": "❌,3&&❌,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&台湾剧,15&&欧美剧,16&&❌,20&&综合电影,21&&英国剧,24&&大陆综艺,25&&韩国综艺,26&&台湾综艺,27&&欧美综艺,28&&国产动漫,29&&日本动漫,30&&欧美动漫,31&&恐怖片,32&&动漫电影,33&&动作片,34&&奇幻片,35&&邵氏电影,36&&海外剧,37&&❌,38&&❌,39",
       "click": true,
       "wePlus": {}
     },
@@ -61,6 +61,14 @@
       "name":"乐活LH",
       "url":"https://lehootv.com/api.php/provide/vod/at/xml/",
       "cate":"电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港剧,14&&日剧,15&&美剧,16&&台剧,20&&韩剧,21&&泰剧,22&&海外剧,23&&记录片,27&&动画片,28&&游戏,29&&微电影,30&&粤语片,31&&大陆综艺,32&&港台综艺,33&&欧美综艺,34&&日韩综艺,35&&国产动漫,36&&日本动漫,37&&港台动漫,38&&欧美动漫,39&&越南剧,42&&奇幻片,43&&短视频,45&&音乐MV,46&&搞笑,47&&热点,48&&解说,49&&福利,50&&伦理片,55&&体育频道,56&&WWE摔跤娱乐,57&&赛车,58&&UFC终极格斗,59&&网球,60&&篮球,61&&足球,62&&自行车,63&&棒球,64&&摩托车,65&&橄榄球,66&&MMA综合格斗,67&&高尔夫,68&&台球,69&&拳击,70",
+      "click":true,
+      "wePlus": {}
+    },
+    {
+      "id":1,
+      "name":"MBO",
+      "url":"https://www.mbomovie.com/api.php/provide/vod/at/xml/",
+      "cate":"电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&台湾剧,14&&韩国剧,15&&欧美剧,16&&香港剧,20&&日本剧,21&&海外剧,22&&港台综艺,23&&欧美综艺,24&&内地综艺,25&&纪录片,26&&动画片,27&&国产动漫,28&&日韩动漫,29&&欧美动漫,30&&港台动漫,31&&海外动漫,32&&动漫电影,33&&日韩综艺,35&&泰国剧,36&&犯罪片,37",
       "click":true,
       "wePlus": {}
     },
