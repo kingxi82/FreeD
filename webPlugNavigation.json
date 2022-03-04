@@ -422,7 +422,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://www.zhenbuka3.com/vodsearch/-------------/?wd={kw}",
-        "nav_url": "https://http://www.zhenbuka3.com/vodshow/navCate--------navPage---/",
+        "nav_url": "http://www.zhenbuka3.com/vodshow/navCate--------navPage---/",
         "web_name": "真不卡影院",
         "search": false,
         "navHtml": {
