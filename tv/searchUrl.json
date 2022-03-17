@@ -4,7 +4,7 @@
       "id": 1,
       "name": "无尽WJ",
       "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xmlsea/",
-      "cate":"❌,1&&❌,2&&❌,3&&❌,4&&Action,6&&Comedy,7&&Romance,8&&Sci,9&&Horror,10&&Feature,11&&War,12&&China TV,13&&Hong Kong TV,14&&Taiwan TV,15&&USA TV,16&&❌,20&&Documentary,21&&Korea TV,22&&Japan TV,23&&Others TV,24&&China Variety,25&&JPN+KOR Variety,26&&Taiwan Variety,27&&US Variety,28&&China Animation,29&&Japan Animation,30&&US Animation,31&&Cliffhang,32&&Animation,33&&Criminal,34&&Fancy,35&&Movies,36&&Thailand TV,37",
+      "cate":"❌,1&&❌,2&&❌,3&&❌,4&&Action,6&&Comedy,7&&Romance,8&&Sci,9&&Horror,10&&Feature,11&&War,12&&China TV,13&&Hong Kong TV,14&&Taiwan TV,15&&USA TV,16&&❌,20&&Documentary,21&&Korea TV,22&&Japan TV,23&&Others TV,24&&China Variety,25&&JPN+KOR Variety,26&&Taiwan Variety,27&&US Variety,28&&China Animation,29&&Japan Animation,30&&US Animation,31&&Cliffhang,32&&Animation,33&&Criminal,34&&Fancy,35&&Movies,36&&Thailand TV,37&&❌,38&&Sports,39",
       "click":true,
       "wePlus": {}
     },
