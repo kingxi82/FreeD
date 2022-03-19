@@ -20,7 +20,6 @@
       "url": "http://shdmv.com/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&4K片源,24&&4K电影,25&&4K剧集,26&&综艺,3",
       "click": true,
-      "wePlus": {}
     },
     {
       "id": 1,
@@ -28,7 +27,6 @@
       "url": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,20&&福利,32&&综艺,3",
       "click": true,
-      "wePlus": {}
     },
     {
       "id": 1,
@@ -36,7 +34,6 @@
       "url": "https://www.qgvod.com/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&直播,20&&电视直播,21&&体育频道,24&&综艺,3",
       "click": true,
-      "wePlus": {}
     },
     {
       "id": 1,
@@ -44,8 +41,7 @@
       "url": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&其他剧,20&&综艺,3",
       "click": true,
-      "wePlus": {}
-    },
+      },
     {
       "id": 1,
       "name": "555云",
@@ -58,13 +54,6 @@
       "name": "八戒云",
       "url": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&日本剧,17&&内地综艺,96日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
-      "click": true
-    },
-    {
-      "id": 1,
-      "name": "快云",
-      "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&日韩剧,15&&美国剧,16&&综艺,3&&动漫,4",
       "click": true
     },
     {
@@ -148,16 +137,13 @@
       "name": "芒果资源",
       "url": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
       "cate": "中字馆,49&&欧美馆,50&&无码馆,51&&国产馆,56&&素人馆,63&&JAV馆,83&&动漫馆,84&&三级馆,85",
-      "click": true,
-      "wePlus": {}
-    },
+      "click": true,},
     {
       "id": 1,
       "name": "水资源",
       "url": "http://51smt4.xyz/api.php/provide/vod/at/xml",
       "cate": "无码,22&&中文,23&&欧美,24&&动画,26&&国产,30",
       "click": true,
-      "wePlus": {}
     },
     {
       "id": 1,
