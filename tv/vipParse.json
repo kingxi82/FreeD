@@ -32,6 +32,18 @@
     },
     {
       "id": 1,
+      "name": "八戒",
+      "ad": "no",
+      "url": "https://zy.aoxtv.com/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "快播",
+      "ad": "no",
+      "url": "https://jx.7kjx.com/?url="
+    },
+    {
+      "id": 1,
       "name": "想看",
       "ad": "no",
       "url": "https://lyw28.com/m3u8/?url="
@@ -41,6 +53,12 @@
       "name": "速更",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -71,6 +89,24 @@
       "name": "官解",
       "ad": "no",
       "url": "https://vip.anfen.xyz/jx/?url"
+    },
+    {
+      "id": 1,
+      "name": "卧龙",
+      "ad": "no",
+      "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "光速",
+      "ad": "no",
+      "url": "https://www.guangsujx.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "片库",
+      "ad": "no",
+      "url": "https://www.newsaas.cn/jx/?url="
     },
     {
       "id": 1,
