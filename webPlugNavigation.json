@@ -526,26 +526,18 @@
       "click": true,
       "webPlus": {
         "search_url": "https://1080p.one/vodsearch/{kw}-------------.html",
-        "nav_url": "https://1080p.one/vodshow/navCat--------navPage---.html",
+        "nav_url": "https://1080p.one/vodsearch/navCate----------navPage---.html",
         "web_name": "one云",
         "search": true,
         "navHtml": {
           "name": [
-            "电影",
-            "电视剧",
-            "4K专区",
-            "纪录片",
-            "综艺"
+            "最近更新"
           ],
           "cate": [
-            "1",
-            "2",
-            "45",
-            "38",
-            "3"            
+            ""        
           ],
           "page": "1"
-        },
+          },
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
@@ -571,12 +563,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.vodlist.hotgrow.size.listdh.top20.wow.fadeInUp.animated",
+            "mainCss": "div.ec-search",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
