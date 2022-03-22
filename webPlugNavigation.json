@@ -534,7 +534,7 @@
             "最近更新"
           ],
           "cate": [
-            ""        
+            "4k"        
           ],
           "page": "1"
           },
@@ -599,6 +599,14 @@
       }
     },
     {
+            "name":"one云(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "ads":"",
+            "webUrl":"https://1080p.one/",
+            "webOpen":true,
+            "click":true
+     },
+     {
       "name": "555电影(规则)",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
