@@ -599,14 +599,6 @@
       }
     },
     {
-            "name":"one云(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "ads":"",
-            "webUrl":"https://1080p.one/",
-            "webOpen":true,
-            "click":true
-     },
-     {
       "name": "555电影(规则)",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
@@ -616,7 +608,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.o8tv.com/vodsearch/-------------.html?wd={kw}submit=",
-        "nav_url": "https://www.o8tv.com/vodshow/navCate--hits------navPage---.html",
+        "nav_url": "https://www.o8tv.com/vodshow/navCate--------navPage---.html",
         "web_name": "555电影",
         "navHtml": {
           "name": [
