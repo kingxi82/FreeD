@@ -81,6 +81,15 @@
     },
     {
      "id": 1,
+     "name": "爱影视",
+     "url": "https://www.hzlff.cn/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+     "detailUrl": "https://www.hzlff.cn/api.php/v1.vod/detail?vod_id=detailId",
+     "cate": "电影,1&&电视剧,2&&综艺,3",
+     "type": "json",
+     "click": true
+    },
+    {
+     "id": 1,
      "name": "CJT影院",
      "url": "https://www.cjt521.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
      "detailUrl": "https://www.cjt521.com/api.php/v1.vod/detail?vod_id=detailId",
