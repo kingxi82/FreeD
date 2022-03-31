@@ -8,6 +8,12 @@
     },
     {
       "id": 1,
+      "name": "线",
+      "ad": "no",
+      "url": "https://www.m3u8play.com/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
