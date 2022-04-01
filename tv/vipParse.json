@@ -2,15 +2,45 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽备用",
+      "name": "百度",
       "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "线1",
+      "ad": "no",
+      "url": "http://m3u8-player.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "线2",
+      "ad": "no",
+      "url": "http://www.m3u8play.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "乐多",
+      "ad": "no",
+      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
     },
     {
       "id": 1,
       "name": "无尽",
       "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
+      "url": "http://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "http://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -56,7 +86,7 @@
     },
     {
       "id": 1,
-      "name": "乐多",
+      "name": "乐多TV",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
@@ -65,6 +95,18 @@
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "线路7",
+      "ad": "no",
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
+      "id": 1,
+      "name": "线路8",
+      "ad": "no",
+      "url": "https://jx.000180.top/jx/?url="
     }
   ]
 }
