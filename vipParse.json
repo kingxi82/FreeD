@@ -4,6 +4,24 @@
       "id": 19,
       "name": "自定义1",
       "ad": "no",
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
       "url": "https://okjx.cc/?url="
     },
     {
