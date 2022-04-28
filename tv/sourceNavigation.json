@@ -114,7 +114,7 @@
     },
     {
       "name": "NewTV ",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://img.downkuai.com/logo/20200917/a378ef747bc4a0997c244568ac25b9f6.png",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
       "type": "txt",
       "subTitle": "",
@@ -129,7 +129,7 @@
       "webPlus": {}
     },
     {
-      "name": "Global TV News ",
+      "name": "Global News ",
       "pic": "https://chinese.aljazeera.net/wp-content/uploads/2021/07/Snipaste_2021-07-29_19-41-58.png?w=709&resize=709%2C645",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20news.m3u",
       "type": "m3u",
