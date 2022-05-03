@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "id": 19,
-      "name": "自定义1",
-      "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 19,
-      "name": "自定义2",
-      "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
-    },
-    {
       "id": 1,
       "name": "无尽",
       "ad": "no",
@@ -26,15 +14,15 @@
     },
     {
       "id": 1,
-      "name": "红牛P2P",
-      "ad": "no",
-      "url": "https://www.tutukiki.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "速更源",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
     },
     {
       "id": 1,
@@ -44,9 +32,27 @@
     },
     {
       "id": 1,
+      "name": "红牛P2P",
+      "ad": "no",
+      "url": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "红牛备用",
+      "ad": "no",
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "想看H5",
       "ad": "no",
       "url": "https://lyw28.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "卧龙",
+      "ad": "no",
+      "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
     },
     {
       "id": 1,
@@ -59,12 +65,6 @@
       "name": "U酷",
       "ad": "no",
       "url": "https://api.ukubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "乐多",
-      "ad": "no",
-      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
     },
     {
       "id": 1,
@@ -86,18 +86,36 @@
     },
     {
       "id": 1,
-      "name": "速更",
+      "name": "新浪XL",
       "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
+      "url": "https://www.xinlangjiexi.com/m3u8?url="
     },
     {
       "id": 1,
-      "name": "乐多TV",
+      "name": "神速",
+      "ad": "no",
+      "url": "https://player.sszyplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "番茄",
+      "ad": "no",
+      "url": "https://dp.fqplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "鱼乐",
+      "ad": "no",
+      "url": "https://jx.ylbfq.com/dplayer/?url="
+    },
+    {
+      "id": 19,
+      "name": "自定义1",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
     {
-      "id": 1,
+      "id": 19,
       "name": "自定义2",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
