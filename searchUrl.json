@@ -47,6 +47,15 @@
      },
      {
      "id": 1,
+     "name": "CK资源",
+     "url": "https://ckzy.me/api.php/provide/vod/at/xml",
+     "detailUrl": "",
+     "cate": "动作片,23&&喜剧片,24&&爱情片,25&&科幻片,26&&恐怖片,27&&剧情片,28&&战争片,29&&悬疑片,30&&记录片,31&&犯罪片,32&&奇幻片,33&&国产剧,35&&港台剧,38&&日韩剧,37&&欧美剧,36&&       ,20",
+     "type": "xml",
+     "click": true
+     },
+     {
+     "id": 1,
      "name": "300kan",
      "url": "https://300ys.xyz/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
      "detailUrl": "https://300ys.xyz/api.php/v1.vod/detail?vod_id=detailId",
