@@ -20,41 +20,32 @@
     },
     {
      "id": 1,
-     "name": "39影视",
-     "url": "https://www.39kan.com/api.php/provide/vod/at/xml/",
-     "detailUrl": "",
-     "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3",
-     "type": "xml",
-     "click": true
-    },
-    {
-     "id": 1,
-     "name": "南府",
-     "url": "http://iapp.nfuxs.club/dnmb.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "http://iapp.nfuxs.club/dnmb.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,1&&电视剧,2&&综艺,3",
+     "name": "钟特影视",
+     "url": "https://app.zteys.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+     "detailUrl": "https://app.zteys.com/api.php/v1.vod/detail?vod_id=detailId",
+     "cate": "电影,1&&电视剧,2&&综艺,3&&日韩剧,15",
      "type": "json",
      "click": true
     },
     {
      "id": 1,
-     "name": "虎猫",
-     "url": "https://humaosp.com/mogai_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "https://humaosp.com/mogai_api.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,1&&电视剧,2&&综艺,3&&4K专区,27&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&4K电视剧,28&&4K电影,29",
+     "name": "美剧虫",
+     "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+     "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
+     "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
      "type": "json",
      "click": true
-    },
-    {
-     "id": 1,
-     "name": "爱酷",
-     "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,1&&电视剧,2&&综艺,3",
-     "type": "json",
-     "click": true
-    },
-    {
+     },
+     {
+      "id": 1,
+      "name": "DC影视",
+      "url": "http://chaorenbb.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://chaorenbb.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type": "json",
+      "click": true
+     },
+     {
      "id": 1,
      "name": "300kan",
      "url": "https://300ys.xyz/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
@@ -62,123 +53,6 @@
      "cate": "电影,38&&电视剧,39&&综艺,40",
      "type": "json",
      "click": true
-    },
-    {
-     "id": 1,
-     "name": "影视大全",
-     "url": "https://app.okmedcos.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "https://app.okmedcos.com/api.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,1&&电视剧,2&&综艺,3",
-     "type": "json",
-     "click": true
-    },
-    {
-            "id": 1,
-            "name": "美剧虫",
-            "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "美剧范",
-            "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "欧美剧,1&&英剧,2&&动漫,5",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "火猫视频",
-            "url": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "DC影视",
-            "url": "http://chaorenbb.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://chaorenbb.com/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "哦呜影视",
-            "url": "http://www.cx99999.cn/lvdou_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://www.cx99999.cn/lvdou_api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "初心影视",
-            "url": "https://www.5znn.video/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "https://www.5znn.video/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "创意影视",
-            "url": "https://www.30dian.cn/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "https://www.30dian.cn/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "独播社",
-            "url": "http://35ys.cc/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://35ys.cc/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "饭后影视",
-            "url": "http://yinliub.cn/lvdou_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://yinliub.cn/lvdou_api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "飓风影视",
-            "url": "http://yidayy.top/lehailb_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "http://yidayy.top/lehailb_api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-        {
-            "id": 1,
-            "name": "暖光影视",
-            "url": "https://app.bl210.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-            "detailUrl": "https://app.bl210.com/api.php/v1.vod/detail?vod_id=detailId",
-            "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-            "type": "json",
-            "click": true
-        },
-    {
-     "id": 1,
-     "name": "钟特影视",
-     "url": "https://app.zteys.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "https://app.zteys.com/api.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,1&&电视剧,2&&综艺,3&&日韩剧,15",
-     "type": "json",
-     "click": true
-    }
-  ]
+     }   
+   ]
 }
