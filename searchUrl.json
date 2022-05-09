@@ -11,6 +11,15 @@
     },
     {
      "id": 1,
+     "name": "猫派对",
+     "url": "http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod/at/xml",
+     "detailUrl": "",
+     "cate": "电影,1&&电视剧,2&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3",
+     "type": "xml",
+     "click": true
+    },
+    {
+     "id": 1,
      "name": "橘猫",
      "url": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
      "detailUrl": "",
@@ -35,6 +44,15 @@
      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
      "type": "json",
      "click": true
-     }
+    },
+    {
+     "id": 1,
+     "name": "300kan",
+     "url": "https://300ys.xyz/mogai_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+     "detailUrl": "https://300ys.xyz/mogai_api.php/v1.vod/detail?vod_id=detailId",
+     "cate": "电影,38&&电视剧,39&&综艺,41",
+     "type": "json",
+     "click": true
+    }
    ]
 }
