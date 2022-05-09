@@ -14,7 +14,7 @@
      "name": "橘猫",
      "url": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
      "detailUrl": "",
-     "cate": "国剧,13&&泰剧,26",
+     "cate": "电影,1&&电视剧,2&&综艺,3&&泰剧,26",
      "type": "xml",
      "click": true
     },
@@ -35,24 +35,6 @@
      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
      "type": "json",
      "click": true
-     },
-     {
-      "id": 1,
-      "name": "DC影视",
-      "url": "http://chaorenbb.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "http://chaorenbb.com/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-      "type": "json",
-      "click": true
-     },
-     {
-     "id": 1,
-     "name": "300kan",
-     "url": "https://300ys.xyz/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-     "detailUrl": "https://300ys.xyz/api.php/v1.vod/detail?vod_id=detailId",
-     "cate": "电影,38&&电视剧,39&&综艺,40",
-     "type": "json",
-     "click": true
-     }   
+     }
    ]
 }
