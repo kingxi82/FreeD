@@ -20,6 +20,15 @@
     },
     {
      "id": 1,
+     "name": "酷云",
+     "url": "http://api.kunyu77.com/api.php/provide/vod/at/xml/",
+     "detailUrl": "",
+     "cate": "电影,1&&电视剧,2&&综艺,3",
+     "type": "xml",
+     "click": true
+    },
+    {
+     "id": 1,
      "name": "钟特影视",
      "url": "https://app.zteys.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
      "detailUrl": "https://app.zteys.com/api.php/v1.vod/detail?vod_id=detailId",
