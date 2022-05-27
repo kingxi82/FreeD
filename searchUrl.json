@@ -21,7 +21,7 @@
     {
      "id": 1,
      "name": "酷云",
-     "url": "http://api.kunyu77.com/api.php/provide/vod/at/xml/",
+     "url": "http://television.wkfile.com/api.php/provide/vod/xml",
      "detailUrl": "",
      "cate": "电影,1&&电视剧,2&&综艺,3",
      "type": "xml",
