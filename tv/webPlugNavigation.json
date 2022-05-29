@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "88看球（足球）",
+      "name": "88看球⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -12,7 +12,7 @@
       "click": true
     },
     {
-      "name": "优直播（足球）",
+      "name": "优直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -23,7 +23,7 @@
       "click": true
     },
     {
-      "name": "515直播（足球）",
+      "name": "515直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -34,7 +34,7 @@
       "click": true
     },
     {
-      "name": "黑白直播（足球）",
+      "name": "黑白直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -45,7 +45,40 @@
       "click": true
     },
     {
-      "name": "乐视吧（足球）",
+      "name": "310直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://www.310.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "JRS直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://www.jrszhibo2018.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "玩球直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.003wq.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "乐视吧⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98MvzPXcalxnmwc616qba0G7Je0H3yOjylA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
