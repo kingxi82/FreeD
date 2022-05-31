@@ -111,39 +111,6 @@
       "click": true
     },
     {
-      "name": "YouTube",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK_TMom4MEq9GrwA4uRP4q9cl2vSD5WlgMw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://youtu.be/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "Google",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_H7hpxx4hQumZkg2Vcss5buGgww3KB3YxEw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "",
-      "webUrl": "https://www.google.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "二分之一强",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtiQr-NlRkNxd20uSu12mLwA3TbGP3ezUjg&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://youtube.com/playlist?list=PLyi-Ztspx3ak8Y5MFFSlMiUi4hSAUjVCl",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "经典传奇2022",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv_DK_N7CBG1QDaQ9IP9fItgWooV5LOIFPA&usqp=CAU",
       "keyDownPlay": false,
@@ -206,6 +173,39 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZmRc6K7JQ_djcrcZ9wzqwTn",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "二分之一强",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtiQr-NlRkNxd20uSu12mLwA3TbGP3ezUjg&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLyi-Ztspx3ak8Y5MFFSlMiUi4hSAUjVCl",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "YouTube",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwK_TMom4MEq9GrwA4uRP4q9cl2vSD5WlgMw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtu.be/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Google",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_H7hpxx4hQumZkg2Vcss5buGgww3KB3YxEw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.google.com/",
       "webOpen": true,
       "click": true
     },
