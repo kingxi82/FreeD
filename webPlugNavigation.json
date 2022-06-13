@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "在线之家(规则)",
+      "name": "在线之家",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -88,97 +88,7 @@
         }
       }
     },
-    {
-      "name": "乐猪TV",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "http://www.lezhutv.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "http://www.lezhutv.com/index.php?m=vod-search&wd={kw}",
-        "nav_url": "http://www.lezhutv.com/type/navCate-navPage.html",
-        "web_name": "乐猪TV",
-        "search": true,
-        "navHtml": {
-          "name": [
-            "电影",
-            "国产剧",
-            "韩剧",
-            "美剧",
-            "综艺"
-          ],
-          "cate": [
-            "1",
-            "2",
-            "14",
-            "15",
-            "3"            
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.list_block.show",
-            "mainIndex": 0
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.tbox_m",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.tbox_m",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          }
-        }
-      }
-    },
-    {
+   {
       "name": "LIBVIO",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
@@ -271,7 +181,7 @@
       }
     },
     {
-      "name": "瓜皮云",
+      "name": "剧白白",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -281,7 +191,7 @@
       "webPlus": {
         "search_url": "https://www.jubaibai.cc/vodsearch.html?wd={kw}&submit=",
         "nav_url": "https://www.jubaibai.cc/vodshow/id/navCate/page/navPage.html",
-        "web_name": "白白",
+        "web_name": "剧白白",
         "search": true,
         "navHtml": {
           "name": [
@@ -379,7 +289,7 @@
       }
     },
     {
-      "name": "朵朵云播",
+      "name": "达达龟",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -487,109 +397,17 @@
       }
     },
     {
-      "name": "厂长资源",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "name": "VIP",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://qianoo.cn/",
+      "webUrl": "http://www.vip1280.net",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://qianoo.cn/xssearch?q={kw}",
-        "nav_url": "https://qianoo.cn/navCate/page/navPage",
-        "web_name": "厂长资源",
-        "search": true,
-        "navHtml": {
-          "name": [
-            "豆瓣电影",
-            "最新电影",
-            "电视剧",
-            "国产剧",
-            "美剧",
-            "韩剧"
-          ],
-          "cate": [
-            "dbtop250",
-            "zuixindianying",
-            "dsj",
-            "gcj",
-            "meijutt",
-            "hanjutv"   
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.paly_list_btn",
-            "mainIndex": 0
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          }
-        }
-      }
-    },
-    {
-      "name": "周末电影",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.zzzlike.vip",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.zzzlike.vip/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.zzzlike.vip/vodshow/navCate--------navPage---.html",
-        "web_name": "周末电影",
+        "search_url": "http://www.vip1280.net/search.html?wd={kw}&submit=",
+        "nav_url": "http://www.vip1280.net/frim/navCate/page/navPage.html",
+        "web_name": "VIP",
         "search": true,
         "navHtml": {
           "name": [
@@ -600,31 +418,27 @@
             "恐怖",
             "剧情",
             "战争",
-            "悬疑",
-            "灾难",
+            "动画",
             "国产",
             "港台",
             "日韩",
             "欧美",
-            "泰国",
-            "综艺"
+            "泰国"
           ],
           "cate": [
-            "6",
-            "10",
-            "8",
-            "9",
-            "7",
-            "11",
-            "12",
-            "27",
-            "26", 
-            "13",
-            "23",
-            "14",
-            "15",
-            "24",
-            "3"            
+            "index6",
+            "index8",
+            "index11",
+            "index7",
+            "index9",
+            "index20",
+            "index10",
+            "index21",
+            "index2",
+            "index3",
+            "index5",   
+            "index4",
+            "index22"
           ],
           "page": "1"
         },
@@ -689,18 +503,18 @@
       }
     },
     {
-      "name": "火火云播",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "name": "魔力",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.huohuo99.com",
+      "webUrl": "https://www.hdmoli.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "",
-        "nav_url": "https://www.huohuo99.com/vodshow/navCate--------navPage---.html",
-        "web_name": "火火云播",
-        "search": false,
+        "search_url": "https://www.hdmoli.com/search.php?searchword={kw}",
+        "nav_url": "https://www.hdmoli.com/mlist/navCate-navPage.html",
+        "web_name": "魔力",
+        "search": true,
         "navHtml": {
           "name": [
             "动作",
@@ -710,31 +524,31 @@
             "恐怖",
             "剧情",
             "战争",
-            "悬疑",
+            "犯罪",
             "动画",
             "国产",
-            "港台",
-            "日韩",
-            "欧美",
-            "泰剧",
-            "综艺"
+            "韩剧",
+            "日剧",
+            "美剧",
+            "英剧",
+            "泰国"
           ],
           "cate": [
-            "6",
-            "9",
-            "7",
-            "8",
-            "10",
-            "11",
-            "12",
-            "23",
-            "24",
-            "13",
-            "14",
-            "15",
-            "16",
-            "28",
-            "4"            
+            "index5",
+            "index7",
+            "index10",
+            "index6",
+            "index8",
+            "index12",
+            "index9",
+            "index30",
+            "index32",
+            "index14",
+            "index16",
+            "index13",   
+            "index15",
+            "index34",
+            "index29"
           ],
           "page": "1"
         },
@@ -748,103 +562,12 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.hl-plays-list.hl-sort-list.hl-list-hide-xs.clearfix",
+            "mainCss": "ul.myui-content__list.sort-list.clearfix",
             "mainIndex": 0
           },
           "nav": {
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.hl-vod-list.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "ul > li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          }
-        }
-      }
-    }, 
-    {
-      "name": "555电影(规则)",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.o8tv.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.o8tv.com/vodsearch/-------------.html?wd={kw}submit=",
-        "nav_url": "https://www.o8tv.com/vodshow/navCate--------navPage---.html",
-        "web_name": "555电影",
-        "navHtml": {
-          "name": [
-            "电影",
-            "国产剧",
-            "港台剧",
-            "日韩剧",
-            "欧美剧",
-            "综艺"
-          ],
-          "cate": [
-            "1",
-            "13",
-            "15",
-            "44",
-            "45",
-            "3"
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "div.tab-pane.fade.in.clearfix",
-            "isMultiList": true,
-            "listCssMulti": "ul > li",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.tab-content.myui-panel_bd",
-            "mainIndex": 0
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.pic-tag.pic-tag-top",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -866,6 +589,78 @@
           },
           "search": {
             "descAttr": "",
+            "descCss": "span.pic-tag.pic-tag-top",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist__media.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "完美看看",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.wanmeikk.me/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.wanmeikk.me/so/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.wanmeikk.me/category/navCate-navPage.html",
+        "web_name": "完美看看",
+        "search": false,
+        "navHtml": {
+          "name": [
+            "电影",
+            "国剧",
+            "韩剧",
+            "日剧",
+            "欧美",
+            "泰国",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "5",
+            "3",
+            "4",
+            "2",
+            "9",
+            "7"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.stui-content__playlist.column8.clearfix",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
             "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
@@ -876,7 +671,143 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList.myui-vodlist__media.clearfix",
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist__media.col-pd.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "Dunkfun",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.dunkfun.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.dunkfun.com/vodsearch/{kw}-------------.html",
+        "nav_url": "https://www.dunkfun.com/vodshow/navCate--------navPage---.html",
+        "web_name": "Dunkfun",
+        "search": true,
+        "navHtml": {
+          "name": [
+            "动作",
+            "科幻",
+            "喜剧",
+            "爱情",
+            "恐怖",
+            "剧情",
+            "战争",
+            "悬疑",
+            "灾难",
+            "犯罪",
+            "记录",
+            "国产",
+            "港台",
+            "日韩",
+            "欧美",
+            "泰国",
+            "综艺"
+          ],
+          "cate": [
+            "7",
+            "12",
+            "20",
+            "8",
+            "6",
+            "10",
+            "11",
+            "9",
+            "29", 
+            "28", 
+            "26", 
+            "15",
+            "14",
+            "13",
+            "22",
+            "16",
+            "3"            
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.stui-content__playlist.clearfix.sort-list",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
