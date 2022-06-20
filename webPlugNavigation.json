@@ -70,7 +70,7 @@
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
-            "listItemCss": "span",
+            "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "div.module-play-list",
             "mainIndex": 0
@@ -180,7 +180,7 @@
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
-            "listItemCss": "span",
+            "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "div.module-play-list",
             "mainIndex": 0
