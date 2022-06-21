@@ -89,7 +89,7 @@
             "descAttr": "",
             "descCss": "div.jidi > span",
             "descIndex": 0,
-            "hasUrlPrefix": false,
+            "hasUrlPrefix": true,
             "imgAttr": "data-original",
             "imgCss": "img",
             "imgIndex": 0,
