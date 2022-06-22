@@ -214,7 +214,7 @@
             "nameIndex": 0,
             "searchListCss": "div.module-card-item.module-item",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.module-card-item-poster",
             "urlIndex": 0
           }
         }
