@@ -162,16 +162,16 @@
         },
         "html": {
           "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.module-play-list",
-            "mainIndex": 0
+            "hasUrlPrefix":false,
+            "isListItemAttr":true,
+            "listCss":"div.module-list.sort-list.tab-list.his-tab-list",
+            "isMultiList":true,
+            "listCssMulti":"div.module-play-list > a",
+            "listItemAttr":"href",
+            "listItemCss":"a",
+            "listItemIndex":0,
+            "mainCss":"div.module",
+            "mainIndex":0
           },
           "nav": {
             "descAttr": "",
