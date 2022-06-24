@@ -164,13 +164,13 @@
           "episodes": {
             "hasUrlPrefix":false,
             "isListItemAttr":true,
-            "listCss":"div#panel1.module-list.sort-list.tab-list.his-tab-list",
-            "isMultiList":true,
-            "listCssMulti":"div.module-play-list > a",
+            "listCss":"a",
+            "isMultiList":false,
+            "listCssMulti":"",
             "listItemAttr":"href",
             "listItemCss":"a",
             "listItemIndex":0,
-            "mainCss":"div.module",
+            "mainCss":"div.module-play-list",
             "mainIndex":0
           },
           "nav": {
