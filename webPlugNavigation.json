@@ -164,7 +164,7 @@
           "episodes": {
             "hasUrlPrefix":false,
             "isListItemAttr":true,
-            "listCss":"div.module-list.sort-list.tab-list.his-tab-list",
+            "listCss":"div#panel1.module-list.sort-list.tab-list.his-tab-list",
             "isMultiList":true,
             "listCssMulti":"div.module-play-list > a",
             "listItemAttr":"href",
