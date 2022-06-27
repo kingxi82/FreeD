@@ -20,15 +20,6 @@
     },
     {
       "id": 1,
-      "name": "无尽WJ",
-      "url": "https://api.wujinapi.net/api.php/provide/vod/from/wjm3u8/at/xml/",
-      "cate":"Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Horror,10&&Feature,11&&War,12&&China Series,13&&Hong Kong Series,14&&Taiwan Series,15&&USA Series,16&&❌,20&&Documentary,21&&Korea Series,22&&Japan Series,23&&Others Series,24&&China Variety,25&&Korea Variety,26&&Taiwan Variety,27&&USA Variety,28&&China Anime,29&&Japan Anime,30&&USA Anime,31&&Cliffhang,32&&Anime Movies,33&&Criminal,34&&Fancy,35&&Movies,36&&Thailand Series,37&&❌,38&&Sports,39",
-      "click":true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
       "name": "if101",
       "url": "http://demo.if101.tv/api.php/provide/vod/from/if101/at/xml/",
       "cate": "体育,24&&纪录片,25&&冒险片,28&&剧情片,29&&动作片,30&&动画电影,31&&同性片,32&&喜剧片,33&&奇幻片,34&&恐怖片,35&&悬疑片,36&&惊悚片,37&&歌舞片,38&&灾难片,39&&爱情片,40&&犯罪片,41&&科幻片,42&&经典片,43&&网络电影,44&&战争片,117&&欧美剧,119&&日本剧,120&&韩国剧,121&&国产剧,122&&泰国剧,123&&香港剧,124&&台湾剧,125&&新马剧,126&&海外剧,127&&欧美综艺,128&&日本综艺,129&&韩国综艺,130&&中国综艺,131&&新马泰综艺,132&&港台综艺,133&&其他综艺,134&&欧美动漫,135&&日本动漫,136&&韩国动漫,137&&国产动漫,138&&新马泰动漫,139&&港台动漫,140&&其他动漫,142",
@@ -152,6 +143,15 @@
       "cate": "欧美剧,1&&英剧,2&&动漫,5",
       "type": "json",
       "click": true
+    },
+    {
+      "id": 1,
+      "name": "唐人街TRZ",
+      "url": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,27&&纪录片,28",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
     },
     {
       "id":1,
