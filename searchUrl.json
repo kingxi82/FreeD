@@ -11,35 +11,6 @@
     },
     {
      "id": 1,
-     "name": "龙腾",
-     "url": "http://175.178.7.35:2020/api.php/provide/vod/at/xml",
-     "detailUrl": "",
-     "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&4K,20&&国剧,13&&港台,14&&日韩,15&&欧美,16&&犯罪,23&&悬疑,25&&冒险,24&&武侠,27&&奇幻,28&&惊悚,22&&记录,29&&综艺,3",
-     "type": "xml",
-     "click": true
-    },
-
-    {
-     "id": 1,
-     "name": "多多",
-     "url": "https://a.7dyu.cn/api.php/provide/vod/at/xml",
-     "detailUrl": "",
-     "cate": "电影,1&&电视剧,2&&综艺,3",
-     "type": "xml",
-     "click": true
-    },
-
-    {
-     "id": 1,
-     "name": "8090",
-     "url": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-     "detailUrl": "",
-     "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&泰剧,29&&国剧,13&&港台,14&&日韩,15&&欧美,16&&犯罪,21&&悬疑,23&&冒险,22&&动画,26&&奇幻,24&&惊悚,20&&记录,25&&综艺,3",
-     "type": "xml",
-     "click": true
-    },
-    {
-     "id": 1,
      "name": "U酷",
      "url": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
      "detailUrl": "",
