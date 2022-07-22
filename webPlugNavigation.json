@@ -120,7 +120,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://lanmeiguojiang.com/search/-.html?wd={kw}",
-        "nav_url": "https://lanmeiguojiang.com/show/navCate--------navPage---.html",
+        "nav_url": "https://lanmeiguojiang.com/show/navCate-------navPage---.html",
         "web_name": "蓝莓影视",
         "search": true,
         "navHtml": {
