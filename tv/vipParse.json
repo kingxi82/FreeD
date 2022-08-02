@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "辉影视",
-      "ad": "no",
-      "url": "https://jx.wangyh.cf/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
@@ -23,6 +17,12 @@
       "name": "无尽",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "辉影视",
+      "ad": "no",
+      "url": "https://jx.wangyh.cf/m3u8/?url="
     },
     {
       "id": 1,
@@ -71,6 +71,78 @@
       "name": "红牛P2P",
       "ad": "no",
       "url": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "红牛备用",
+      "ad": "no",
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "想看H5",
+      "ad": "no",
+      "url": "https://lyw28.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "天空",
+      "ad": "no",
+      "url": "https://jx.huishij.com/yun/?url="
+    },
+    {
+      "id": 1,
+      "name": "酷点",
+      "ad": "no",
+      "url": "https://jx.kujiexi.net/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "速更源（失效）",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "新浪XL",
+      "ad": "no",
+      "url": "https://www.xinlangjiexi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "番茄",
+      "ad": "no",
+      "url": "https://dp.fqplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "鱼乐",
+      "ad": "no",
+      "url": "https://jx.ylbfq.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "探探",
+      "ad": "no",
+      "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "MWO",
+      "ad": "no",
+      "url": "https://parse.mw0.cc/Bei/?url="
+    },
+    {
+      "id": 1,
+      "name": "猪蹄影院",
+      "ad": "no",
+      "url": "https://api.iztyy.com/jiexi/?url="
     },
     {
       "id": 1,
