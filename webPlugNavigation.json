@@ -341,12 +341,12 @@
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.xawqxh.net/",
+      "webUrl": "https://www.o8tv.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.xawqxh.net/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.xawqxh.net/vodshow/navCate-----navPage---.html",
+        "search_url": "https://www.o8tv.com/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://www.o8tv.com/vodshow/navCate-----navPage---.html",
         "web_name": "555电影",
         "search": false,
         "navHtml": {
@@ -371,7 +371,8 @@
             "韩日",
             "欧美",
             "泰国",
-            "综艺"
+            "综艺",
+            "   "
           ],
           "cate": [
             "1--hits-",
@@ -394,7 +395,8 @@
             "44---",
             "45---",
             "2-泰国--",
-            "3---"            
+            "3---",
+            "124---"
           ],
           "page": "1"
         },
@@ -553,12 +555,12 @@
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.wanmeikk.me/",
+      "webUrl": "https://www.wanmeikk.film/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.wanmeikk.me/so/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.wanmeikk.me/category/navCate-navPage.html",
+        "search_url": "https://www.wanmeikk.film/so/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.wanmeikk.film/category/navCate-navPage.html",
         "web_name": "完美看看",
         "search": false,
         "navHtml": {
