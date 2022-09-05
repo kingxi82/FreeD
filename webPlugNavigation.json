@@ -559,7 +559,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.wanmeikk.film/so/-------------.html?wd={kw}&submit=",
+        "search_url": "https://www.wanmeikk.film/",
         "nav_url": "https://www.wanmeikk.film/category/navCate-navPage.html",
         "web_name": "完美看看",
         "search": false,
