@@ -555,12 +555,12 @@
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.wanmeikk.film/",
+      "webUrl": "http://www.wanmeikk.me/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.wanmeikk.film/",
-        "nav_url": "https://www.wanmeikk.film/category/navCate-navPage.html",
+        "search_url": "https://www.wanmeikk.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+        "nav_url": "http://www.wanmeikk.me/category/navCate-navPage.html",
         "web_name": "完美看看",
         "search": false,
         "navHtml": {
