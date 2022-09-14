@@ -48,6 +48,22 @@
       "decoder": 0,
       "webPlus": {}
     },
+	{
+      "name": "二十不惑2",
+      "pic": "https://image.ijycnd.com/cover/26786.jpg",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/Freetv/20buhuo.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
     {
       "name": "Movies ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFQZkfW4mB8-y1U43eM8kk1wegyRlphXO6g&usqp=CAU",
