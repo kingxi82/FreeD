@@ -15,6 +15,36 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
+    },{
+      "name": "超级宝贝JOJO",
+      "pic": "https://cdn.jsdelivr.net/gh/kingxi82/Freetv/JOJO_S1.jpeg",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/Freetv/JOJO_S1.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },{
+      "name": "超级宝贝JOJO第二季",
+      "pic": "https://cdn.jsdelivr.net/gh/kingxi82/Freetv/JOJO_S2.jpeg",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/Freetv/JOJO_S2.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
     }
   ]
 }

@@ -62,6 +62,15 @@
      "cate": "电影,38&&电视剧,39&&综艺,41",
      "type": "json",
      "click": true
+    },
+	{
+     "id": 1,
+     "name": "天空",
+     "url": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/",
+     "detailUrl": "",
+     "cate": "动漫,24",
+     "type": "xml",
+     "click": true
     }
    ]
 }
