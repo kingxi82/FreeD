@@ -5,12 +5,12 @@
 
 接口地址:
 
-搜索接口：https://cdn.jsdelivr.net/gh/kingxi82/Freetv/searchUrl.json
+搜索接口：https://cdn.jsdelivr.net/gh/kingxi82/FreeD/searchUrl.json
 
-资源专题接口：https://cdn.jsdelivr.net/gh/kingxi82/Freetv/sourceNavigation.json
+资源专题接口：https://cdn.jsdelivr.net/gh/kingxi82/FreeD/sourceNavigation.json
 
-云插件接口：https://cdn.jsdelivr.net/gh/kingxi82/Freetv/webPlugNavigation.json
+云插件接口：https://cdn.jsdelivr.net/gh/kingxi82/FreeD/webPlugNavigation.json
 
-VIP解析接口：https://cdn.jsdelivr.net/gh/kingxi82/Freetv/vipParse.json
+VIP解析接口：https://cdn.jsdelivr.net/gh/kingxi82/FreeD/vipParse.json
 
 导入完重启应用，如需简单修改域名切换到相应接口栏修改提交(修改添加必须开启局域网操作)
