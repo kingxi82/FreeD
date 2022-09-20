@@ -19,7 +19,7 @@
     {
       "name": "超级宝贝JOJO",
       "pic": "https://image.ijycnd.com/cover/25335.jpg",
-      "webUrl": "http://192.168.1.29:800/JOJO_S1.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/FreeD/JOJO_S1.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "超级宝贝JOJO第二季",
       "pic": "https://image.ijycnd.com/cover/25872.jpg",
-      "webUrl": "http://192.168.1.29:800/JOJO_S2.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/FreeD/JOJO_S2.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -51,7 +51,7 @@
     {
       "name": "二十不惑2",
       "pic": "https://image.ijycnd.com/cover/26786.jpg",
-      "webUrl": "http://192.168.1.29:800/20buhuo.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kingxi82/FreeD/20buhuo.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
