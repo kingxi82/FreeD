@@ -208,6 +208,15 @@
       "click": true
     },
     {
+     "id": 1,
+     "name": "卧龙",
+     "url": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
+     "detailUrl": "",
+     "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&泰剧,33&&国剧,12&&港剧,13&&日剧,17&&欧美,15&&韩剧,14&&台剧,16&&综艺,3",
+     "type": "xml",
+     "click": true
+    },
+    {
       "id": 1,
       "name": "天空",
       "url": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/",
